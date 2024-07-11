@@ -8,7 +8,7 @@ The server will start on port 3000.
 
 ### 1. Signup
 
-- **URL:** `/signup`
+- **URL:** `/signup` , `/login`
 - **Method:** `POST`
 - **Data Params:** 
 ```json
@@ -16,3 +16,5 @@ The server will start on port 3000.
  "username": "[string]",
  "password": "[string]"
 }
+
+
